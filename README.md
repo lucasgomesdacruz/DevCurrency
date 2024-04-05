@@ -30,7 +30,7 @@ React Icons: Uma biblioteca abrangente de ícones populares para fácil integra�
 API CoinCap: Uma API REST gratuita para buscar dados de criptomoedas em tempo real.
 
 ## Instalação
-1. Clone o repositório: `git clone (https://github.com/lucasgomesdacruz/Gerador-de-frases.git)`
+1. Clone o repositório: `git clone (https://github.com/lucasgomesdacruz/DevCurrency.git)`
 2. Navegue até o diretório do projeto
 3. Instale as dependências: `npm install`
 4. Inicie o aplicativo: `npm run dev`
